@@ -1,7 +1,7 @@
 var contacts=[
     {
-        "firstname":"Akira",
-        "lastname":"Laine",
+        "firstname":"wanda",
+        "lastname":"maximof",
         "number":"0543236543",
         "likes":["Pizza","Coding","Brownie"]
     },

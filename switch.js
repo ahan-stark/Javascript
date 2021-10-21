@@ -21,4 +21,4 @@ function caseinswitch(val)
     }
     return answer;
 }
-console.log(caseinswitch(3,1));
+console.log(caseinswitch(3));
